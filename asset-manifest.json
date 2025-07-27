@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://sentinelix-source-agarix.glitch.me/static/css/main.6099b357.chunk.css",
+    "main.js": "https://sentinelix-source-agarix.glitch.me/static/js/main.e8dbe0fd.chunk.js",
+    "runtime-main.js": "https://sentinelix-source-agarix.glitch.me/static/js/runtime-main.90d783fc.js",
+    "static/js/2.5de4b5f7.chunk.js": "https://sentinelix-source-agarix.glitch.me/static/js/2.5de4b5f7.chunk.js",
+    "index.html": "https://sentinelix-source-agarix.glitch.me/index.html",
+    "static/js/2.5de4b5f7.chunk.js.LICENSE.txt": "https://sentinelix-source-agarix.glitch.me/static/js/2.5de4b5f7.chunk.js.LICENSE.txt",
+    "static/media/index.module.scss": "https://sentinelix-source-agarix.glitch.me/static/media/loader-bg.ad88e0b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d783fc.js",
+    "static/js/2.5de4b5f7.chunk.js",
+    "static/css/main.6099b357.chunk.css",
+    "static/js/main.e8dbe0fd.chunk.js"
+  ]
+}
